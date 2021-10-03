@@ -1,0 +1,17 @@
+.hidden {
+  display: none;
+}
+
+#clock {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+}
+
+#login-form {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+}
